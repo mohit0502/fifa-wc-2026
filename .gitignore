@@ -1,0 +1,17 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+data/raw/
+*.parquet
+*.db
+.ipynb_checkpoints/
+.venv/
+venv/
+*.egg-info/
+dist/
+build/
+.mlflow/
+mlruns/
+frontend/tsconfig.tsbuildinfo
