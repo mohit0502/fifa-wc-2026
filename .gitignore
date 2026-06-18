@@ -3,7 +3,8 @@ __pycache__/
 *.pyc
 *.pyo
 .DS_Store
-data/raw/
+data/raw/*
+!data/raw/wc2026_fixtures.csv
 *.parquet
 *.db
 .ipynb_checkpoints/
