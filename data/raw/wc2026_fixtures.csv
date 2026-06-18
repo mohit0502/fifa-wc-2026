@@ -1,73 +1,73 @@
 fixture_id,group,stage,match_date,kickoff_utc,home_team,away_team,home_score,away_score,venue,city,status
-1,Group A,Group stage,2026-06-11,,Mexico,South Africa,2.0,0.0,SoFi Stadium,Inglewood,completed
-2,Group B,Group stage,2026-06-11,,Canada,Switzerland,,,BC Place,Vancouver,scheduled
-3,Group C,Group stage,2026-06-12,,Morocco,Haiti,,,Hard Rock Stadium,Miami,scheduled
-4,Group B,Group stage,2026-06-12,,Qatar,Bosnia and Herzegovina,,,Estadio Azteca,Mexico City,scheduled
-5,Group D,Group stage,2026-06-12,,United States,Australia,,,MetLife Stadium,East Rutherford,scheduled
-6,Group A,Group stage,2026-06-12,,South Korea,Czech Republic,,,MetLife Stadium,East Rutherford,scheduled
-7,Group D,Group stage,2026-06-13,,Turkey,Paraguay,,,Empower Field,Denver,scheduled
-8,Group E,Group stage,2026-06-13,,Ivory Coast,Ecuador,,,AT&T Stadium,Arlington,scheduled
-9,Group E,Group stage,2026-06-13,,Germany,Curaçao,,,Rose Bowl,Pasadena,scheduled
-10,Group C,Group stage,2026-06-13,,Brazil,Scotland,,,AT&T Stadium,Arlington,scheduled
-11,Group F,Group stage,2026-06-14,,Netherlands,Tunisia,,,Empower Field,Denver,scheduled
-12,Group G,Group stage,2026-06-14,,Belgium,Iran,,,BC Place,Vancouver,scheduled
-13,Group G,Group stage,2026-06-14,,New Zealand,Egypt,,,Hard Rock Stadium,Miami,scheduled
-14,Group F,Group stage,2026-06-14,,Japan,Sweden,,,Allegiant Stadium,Las Vegas,scheduled
-15,Group I,Group stage,2026-06-15,,France,Iraq,,,BC Place,Vancouver,scheduled
-16,Group I,Group stage,2026-06-15,,Senegal,Norway,,,Gillette Stadium,Foxborough,scheduled
-17,Group H,Group stage,2026-06-15,,Uruguay,Saudi Arabia,,,Empower Field,Denver,scheduled
-18,Group H,Group stage,2026-06-15,,Spain,Cape Verde,,,MetLife Stadium,East Rutherford,scheduled
-19,Group J,Group stage,2026-06-15,,Argentina,Algeria,,,Estadio Azteca,Mexico City,scheduled
-20,Group B,Group stage,2026-06-16,,Switzerland,Qatar,,,Lincoln Financial Field,Philadelphia,scheduled
-21,Group L,Group stage,2026-06-16,,England,Croatia,,,MetLife Stadium,East Rutherford,scheduled
-22,Group K,Group stage,2026-06-16,,Uzbekistan,DR Congo,,,BMO Field,Toronto,scheduled
-23,Group K,Group stage,2026-06-16,,Portugal,Colombia,,,Gillette Stadium,Foxborough,scheduled
-24,Group A,Group stage,2026-06-16,,Czech Republic,Mexico,,,AT&T Stadium,Arlington,scheduled
-25,Group A,Group stage,2026-06-16,,South Africa,South Korea,,,Gillette Stadium,Foxborough,scheduled
-26,Group J,Group stage,2026-06-16,,Austria,Jordan,,,Hard Rock Stadium,Miami,scheduled
-27,Group C,Group stage,2026-06-17,,Haiti,Brazil,,,Rose Bowl,Pasadena,scheduled
-28,Group D,Group stage,2026-06-17,,Australia,Turkey,,,Gillette Stadium,Foxborough,scheduled
-29,Group C,Group stage,2026-06-17,,Scotland,Morocco,,,SoFi Stadium,Inglewood,scheduled
-30,Group B,Group stage,2026-06-17,,Bosnia and Herzegovina,Canada,,,Empower Field,Denver,scheduled
-31,Group L,Group stage,2026-06-17,,Ghana,Panama,,,Estadio Azteca,Mexico City,scheduled
-32,Group F,Group stage,2026-06-18,,Tunisia,Japan,,,Gillette Stadium,Foxborough,scheduled
-33,Group D,Group stage,2026-06-18,,Paraguay,United States,,,BC Place,Vancouver,scheduled
-34,Group E,Group stage,2026-06-18,,Curaçao,Ivory Coast,,,Lincoln Financial Field,Philadelphia,scheduled
-35,Group E,Group stage,2026-06-18,,Ecuador,Germany,,,Hard Rock Stadium,Miami,scheduled
-36,Group F,Group stage,2026-06-19,,Sweden,Netherlands,,,BMO Field,Toronto,scheduled
-37,Group H,Group stage,2026-06-19,,Saudi Arabia,Spain,,,Rose Bowl,Pasadena,scheduled
-38,Group G,Group stage,2026-06-19,,Egypt,Belgium,,,SoFi Stadium,Inglewood,scheduled
-39,Group G,Group stage,2026-06-19,,Iran,New Zealand,,,Estadio Azteca,Mexico City,scheduled
-40,Group I,Group stage,2026-06-19,,Norway,France,,,Lincoln Financial Field,Philadelphia,scheduled
-41,Group H,Group stage,2026-06-20,,Cape Verde,Uruguay,,,Allegiant Stadium,Las Vegas,scheduled
-42,Group K,Group stage,2026-06-20,,DR Congo,Portugal,,,Allegiant Stadium,Las Vegas,scheduled
-43,Group I,Group stage,2026-06-20,,Iraq,Senegal,,,BMO Field,Toronto,scheduled
-44,Group J,Group stage,2026-06-20,,Algeria,Austria,,,MetLife Stadium,East Rutherford,scheduled
-45,Group J,Group stage,2026-06-20,,Jordan,Argentina,,,Empower Field,Denver,scheduled
-46,Group A,Group stage,2026-06-20,,Mexico,South Korea,,,Rose Bowl,Pasadena,scheduled
-47,Group A,Group stage,2026-06-20,,Czech Republic,South Africa,,,Allegiant Stadium,Las Vegas,scheduled
-48,Group L,Group stage,2026-06-21,,Croatia,Ghana,,,Empower Field,Denver,scheduled
-49,Group K,Group stage,2026-06-21,,Colombia,Uzbekistan,,,AT&T Stadium,Arlington,scheduled
-50,Group C,Group stage,2026-06-21,,Morocco,Brazil,,,MetLife Stadium,East Rutherford,scheduled
-51,Group C,Group stage,2026-06-21,,Scotland,Haiti,,,Allegiant Stadium,Las Vegas,scheduled
-52,Group B,Group stage,2026-06-21,,Canada,Qatar,,,BMO Field,Toronto,scheduled
-53,Group B,Group stage,2026-06-21,,Switzerland,Bosnia and Herzegovina,,,Levi's Stadium,Santa Clara,scheduled
-54,Group L,Group stage,2026-06-21,,Panama,England,,,Hard Rock Stadium,Miami,scheduled
-55,Group E,Group stage,2026-06-22,,Germany,Ivory Coast,,,MetLife Stadium,East Rutherford,scheduled
-56,Group D,Group stage,2026-06-22,,United States,Turkey,,,Levi's Stadium,Santa Clara,scheduled
-57,Group D,Group stage,2026-06-22,,Australia,Paraguay,,,BMO Field,Toronto,scheduled
-58,Group E,Group stage,2026-06-22,,Ecuador,Curaçao,,,SoFi Stadium,Inglewood,scheduled
-59,Group F,Group stage,2026-06-23,,Japan,Netherlands,,,Rose Bowl,Pasadena,scheduled
-60,Group G,Group stage,2026-06-23,,Belgium,New Zealand,,,Levi's Stadium,Santa Clara,scheduled
-61,Group G,Group stage,2026-06-23,,Egypt,Iran,,,Lincoln Financial Field,Philadelphia,scheduled
-62,Group F,Group stage,2026-06-23,,Tunisia,Sweden,,,AT&T Stadium,Arlington,scheduled
-63,Group J,Group stage,2026-06-24,,Argentina,Austria,,,BC Place,Vancouver,scheduled
-64,Group I,Group stage,2026-06-24,,France,Senegal,,,SoFi Stadium,Inglewood,scheduled
-65,Group I,Group stage,2026-06-24,,Norway,Iraq,,,Levi's Stadium,Santa Clara,scheduled
-66,Group H,Group stage,2026-06-24,,Spain,Uruguay,,,Hard Rock Stadium,Miami,scheduled
-67,Group H,Group stage,2026-06-24,,Saudi Arabia,Cape Verde,,,AT&T Stadium,Arlington,scheduled
-68,Group J,Group stage,2026-06-24,,Jordan,Algeria,,,Rose Bowl,Pasadena,scheduled
-69,Group K,Group stage,2026-06-25,,DR Congo,Colombia,,,Lincoln Financial Field,Philadelphia,scheduled
-70,Group K,Group stage,2026-06-25,,Portugal,Uzbekistan,,,SoFi Stadium,Inglewood,scheduled
-71,Group L,Group stage,2026-06-25,,Panama,Croatia,,,Levi's Stadium,Santa Clara,scheduled
-72,Group L,Group stage,2026-06-25,,England,Ghana,,,BC Place,Vancouver,scheduled
+1,Group A,Group stage,2026-06-11,,Mexico,South Africa,2.0,0.0,Estadio Azteca,Mexico City,completed
+2,Group A,Group stage,2026-06-11,,South Korea,Czech Republic,2.0,1.0,Estadio Akron,Zapopan,completed
+3,Group B,Group stage,2026-06-12,,Canada,Bosnia and Herzegovina,1.0,1.0,BMO Field,Toronto,completed
+4,Group D,Group stage,2026-06-12,,United States,Paraguay,4.0,1.0,SoFi Stadium,"Inglewood, California",completed
+5,Group B,Group stage,2026-06-13,,Qatar,Switzerland,1.0,1.0,Levi's Stadium,"Santa Clara, California",completed
+6,Group C,Group stage,2026-06-13,,Brazil,Morocco,1.0,1.0,MetLife Stadium,"East Rutherford, New Jersey",completed
+7,Group C,Group stage,2026-06-13,,Haiti,Scotland,0.0,1.0,Gillette Stadium,"Foxborough, Massachusetts",completed
+8,Group D,Group stage,2026-06-13,,Australia,Turkey,2.0,0.0,BC Place,Vancouver,completed
+9,Group E,Group stage,2026-06-14,,Germany,Curaçao,7.0,1.0,NRG Stadium,Houston,completed
+10,Group E,Group stage,2026-06-14,,Ivory Coast,Ecuador,1.0,0.0,Lincoln Financial Field,Philadelphia,completed
+11,Group F,Group stage,2026-06-14,,Netherlands,Japan,2.0,2.0,AT&T Stadium,"Arlington, Texas",completed
+12,Group F,Group stage,2026-06-14,,Sweden,Tunisia,5.0,1.0,Estadio BBVA,"Guadalupe, Nuevo León",completed
+13,Group G,Group stage,2026-06-15,,Belgium,Egypt,1.0,1.0,Lumen Field,Seattle,completed
+14,Group G,Group stage,2026-06-15,,Iran,New Zealand,2.0,2.0,SoFi Stadium,"Inglewood, California",completed
+15,Group H,Group stage,2026-06-15,,Spain,Cape Verde,0.0,0.0,Mercedes-Benz Stadium,Atlanta,completed
+16,Group H,Group stage,2026-06-15,,Saudi Arabia,Uruguay,1.0,1.0,Hard Rock Stadium,"Miami Gardens, Florida",completed
+17,Group I,Group stage,2026-06-16,,France,Senegal,3.0,1.0,MetLife Stadium,"East Rutherford, New Jersey",completed
+18,Group I,Group stage,2026-06-16,,Iraq,Norway,1.0,4.0,Gillette Stadium,"Foxborough, Massachusetts",completed
+19,Group J,Group stage,2026-06-16,,Argentina,Algeria,3.0,0.0,Arrowhead Stadium,"Kansas City, Missouri",completed
+20,Group J,Group stage,2026-06-16,,Austria,Jordan,3.0,1.0,Levi's Stadium,"Santa Clara, California",completed
+21,Group K,Group stage,2026-06-17,,Portugal,DR Congo,1.0,1.0,NRG Stadium,Houston,completed
+22,Group K,Group stage,2026-06-17,,Uzbekistan,Colombia,1.0,3.0,Estadio Azteca,Mexico City,completed
+23,Group L,Group stage,2026-06-17,,England,Croatia,4.0,2.0,AT&T Stadium,"Arlington, Texas",completed
+24,Group L,Group stage,2026-06-17,,Ghana,Panama,1.0,0.0,BMO Field,Toronto,completed
+25,Group A,Group stage,2026-06-18,,Czech Republic,South Africa,,,Mercedes-Benz Stadium,Atlanta,scheduled
+26,Group A,Group stage,2026-06-18,,Mexico,South Korea,,,Estadio Akron,Zapopan,scheduled
+27,Group B,Group stage,2026-06-18,,Switzerland,Bosnia and Herzegovina,,,SoFi Stadium,"Inglewood, California",scheduled
+28,Group B,Group stage,2026-06-18,,Canada,Qatar,,,BC Place,Vancouver,scheduled
+29,Group C,Group stage,2026-06-19,,Scotland,Morocco,,,Gillette Stadium,"Foxborough, Massachusetts",scheduled
+30,Group C,Group stage,2026-06-19,,Brazil,Haiti,,,Lincoln Financial Field,Philadelphia,scheduled
+31,Group D,Group stage,2026-06-19,,United States,Australia,,,Lumen Field,Seattle,scheduled
+32,Group D,Group stage,2026-06-19,,Turkey,Paraguay,,,Levi's Stadium,"Santa Clara, California",scheduled
+33,Group E,Group stage,2026-06-20,,Germany,Ivory Coast,,,BMO Field,Toronto,scheduled
+34,Group E,Group stage,2026-06-20,,Ecuador,Curaçao,,,Arrowhead Stadium,"Kansas City, Missouri",scheduled
+35,Group F,Group stage,2026-06-20,,Netherlands,Sweden,,,NRG Stadium,Houston,scheduled
+36,Group F,Group stage,2026-06-20,,Tunisia,Japan,,,Estadio BBVA,"Guadalupe, Nuevo León",scheduled
+37,Group G,Group stage,2026-06-21,,Belgium,Iran,,,SoFi Stadium,"Inglewood, California",scheduled
+38,Group G,Group stage,2026-06-21,,New Zealand,Egypt,,,BC Place,Vancouver,scheduled
+39,Group H,Group stage,2026-06-21,,Spain,Saudi Arabia,,,Mercedes-Benz Stadium,Atlanta,scheduled
+40,Group H,Group stage,2026-06-21,,Uruguay,Cape Verde,,,Hard Rock Stadium,"Miami Gardens, Florida",scheduled
+41,Group I,Group stage,2026-06-22,,France,Iraq,,,Lincoln Financial Field,Philadelphia,scheduled
+42,Group I,Group stage,2026-06-22,,Norway,Senegal,,,MetLife Stadium,"East Rutherford, New Jersey",scheduled
+43,Group J,Group stage,2026-06-22,,Argentina,Austria,,,AT&T Stadium,"Arlington, Texas",scheduled
+44,Group J,Group stage,2026-06-22,,Jordan,Algeria,,,Levi's Stadium,"Santa Clara, California",scheduled
+45,Group K,Group stage,2026-06-23,,Portugal,Uzbekistan,,,NRG Stadium,Houston,scheduled
+46,Group K,Group stage,2026-06-23,,Colombia,DR Congo,,,Estadio Akron,Zapopan,scheduled
+47,Group L,Group stage,2026-06-23,,England,Ghana,,,Gillette Stadium,"Foxborough, Massachusetts",scheduled
+48,Group L,Group stage,2026-06-23,,Panama,Croatia,,,BMO Field,Toronto,scheduled
+49,Group A,Group stage,2026-06-24,,Czech Republic,Mexico,,,Estadio Azteca,Mexico City,scheduled
+50,Group A,Group stage,2026-06-24,,South Africa,South Korea,,,Estadio BBVA,"Guadalupe, Nuevo León",scheduled
+51,Group B,Group stage,2026-06-24,,Switzerland,Canada,,,BC Place,Vancouver,scheduled
+52,Group B,Group stage,2026-06-24,,Bosnia and Herzegovina,Qatar,,,Lumen Field,Seattle,scheduled
+53,Group C,Group stage,2026-06-24,,Scotland,Brazil,,,Hard Rock Stadium,"Miami Gardens, Florida",scheduled
+54,Group C,Group stage,2026-06-24,,Morocco,Haiti,,,Mercedes-Benz Stadium,Atlanta,scheduled
+55,Group D,Group stage,2026-06-25,,Turkey,United States,,,SoFi Stadium,"Inglewood, California",scheduled
+56,Group D,Group stage,2026-06-25,,Paraguay,Australia,,,Levi's Stadium,"Santa Clara, California",scheduled
+57,Group E,Group stage,2026-06-25,,Curaçao,Ivory Coast,,,Lincoln Financial Field,Philadelphia,scheduled
+58,Group E,Group stage,2026-06-25,,Ecuador,Germany,,,MetLife Stadium,"East Rutherford, New Jersey",scheduled
+59,Group F,Group stage,2026-06-25,,Japan,Sweden,,,AT&T Stadium,"Arlington, Texas",scheduled
+60,Group F,Group stage,2026-06-25,,Tunisia,Netherlands,,,Arrowhead Stadium,"Kansas City, Missouri",scheduled
+61,Group G,Group stage,2026-06-26,,Egypt,Iran,,,Lumen Field,Seattle,scheduled
+62,Group G,Group stage,2026-06-26,,New Zealand,Belgium,,,BC Place,Vancouver,scheduled
+63,Group H,Group stage,2026-06-26,,Cape Verde,Saudi Arabia,,,NRG Stadium,Houston,scheduled
+64,Group H,Group stage,2026-06-26,,Uruguay,Spain,,,Estadio Akron,Zapopan,scheduled
+65,Group I,Group stage,2026-06-26,,Norway,France,,,Gillette Stadium,"Foxborough, Massachusetts",scheduled
+66,Group I,Group stage,2026-06-26,,Senegal,Iraq,,,BMO Field,Toronto,scheduled
+67,Group J,Group stage,2026-06-27,,Algeria,Austria,,,Arrowhead Stadium,"Kansas City, Missouri",scheduled
+68,Group J,Group stage,2026-06-27,,Jordan,Argentina,,,AT&T Stadium,"Arlington, Texas",scheduled
+69,Group K,Group stage,2026-06-27,,Colombia,Portugal,,,Hard Rock Stadium,"Miami Gardens, Florida",scheduled
+70,Group K,Group stage,2026-06-27,,DR Congo,Uzbekistan,,,Mercedes-Benz Stadium,Atlanta,scheduled
+71,Group L,Group stage,2026-06-27,,Panama,England,,,MetLife Stadium,"East Rutherford, New Jersey",scheduled
+72,Group L,Group stage,2026-06-27,,Croatia,Ghana,,,Lincoln Financial Field,Philadelphia,scheduled
