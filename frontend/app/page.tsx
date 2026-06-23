@@ -199,6 +199,7 @@ export default function TournamentPage() {
                   {grpFixtures.map((f) => {
                     const isToday = f.match_date?.slice(0, 10) === today;
                     const done = f.status === "completed";
+                    const live = f.status === "live";
                     return (
                       <div
                         key={f.fixture_id}
@@ -222,10 +223,10 @@ export default function TournamentPage() {
                             </Link>
                             <span
                               className={`shrink-0 px-1.5 font-mono font-bold rounded ${
-                                done ? "text-gold" : "text-muted"
+                                done ? "text-gold" : live ? "text-red-400 animate-pulse" : "text-muted"
                               }`}
                             >
-                              {done
+                              {done || live
                                 ? `${f.home_score}–${f.away_score}`
                                 : isToday
                                 ? "🔴"
@@ -313,6 +314,7 @@ export default function TournamentPage() {
                   <div className="space-y-2">
                     {dayFixtures.map((f) => {
                       const done = f.status === "completed";
+                      const live = f.status === "live";
                       return (
                         <div
                           key={f.fixture_id}
@@ -332,6 +334,10 @@ export default function TournamentPage() {
                           <div className="w-16 text-center">
                             {done ? (
                               <span className="text-gold font-bold text-lg font-mono">
+                                {f.home_score}–{f.away_score}
+                              </span>
+                            ) : live ? (
+                              <span className="text-red-400 font-bold text-lg font-mono animate-pulse">
                                 {f.home_score}–{f.away_score}
                               </span>
                             ) : isToday ? (

@@ -10,7 +10,7 @@ export interface Fixture {
   away_score: number | null;
   venue: string;
   city: string;
-  status: "scheduled" | "completed";
+  status: "scheduled" | "live" | "completed";
 }
 
 export interface Player {

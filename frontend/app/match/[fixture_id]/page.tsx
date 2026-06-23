@@ -95,6 +95,7 @@ export default function MatchCentrePage() {
   }
 
   const done = fixture.status === "completed";
+  const live = fixture.status === "live";
   const groupLetter = fixture.group.split(" ")[1];
   const groupColor = GROUP_COLORS[groupLetter] ?? "#64748b";
 
@@ -164,6 +165,10 @@ export default function MatchCentrePage() {
               <div className="text-5xl font-extrabold text-gold font-mono tracking-tight">
                 {fixture.home_score} – {fixture.away_score}
               </div>
+            ) : live ? (
+              <div className="text-5xl font-extrabold text-red-400 font-mono tracking-tight animate-pulse">
+                {fixture.home_score} – {fixture.away_score}
+              </div>
             ) : (
               <div className="text-4xl font-bold text-muted tracking-wider">vs</div>
             )}
@@ -171,10 +176,12 @@ export default function MatchCentrePage() {
               className={`text-xs px-3 py-1.5 rounded-full font-bold uppercase tracking-widest ${
                 done
                   ? "bg-green-500/20 text-green-400 border border-green-500/30"
+                  : live
+                  ? "bg-red-500/20 text-red-400 border border-red-500/30 animate-pulse"
                   : "bg-yellow-500/20 text-yellow-400 border border-yellow-500/30"
               }`}
             >
-              {done ? "Full Time" : "Scheduled"}
+              {done ? "Full Time" : live ? "Live" : "Scheduled"}
             </span>
           </div>
 
@@ -275,7 +282,7 @@ export default function MatchCentrePage() {
                   { team: fixture.away_team, form: awayForm },
                 ] as const
               ).map(({ team, form }) => (
-                <div key={team}>
+                <div key={team} className="flex flex-col items-center">
                   <div className="mb-3">
                     <TeamFlag name={team} size="sm" showLink />
                   </div>
@@ -371,11 +378,11 @@ export default function MatchCentrePage() {
             </h2>
             {/* Column headers */}
             <div className="grid grid-cols-[1fr_auto_1fr] gap-4 mb-3">
-              <div className="text-right">
+              <div className="flex justify-center">
                 <TeamFlag name={fixture.home_team} size="sm" showLink={false} />
               </div>
               <div className="w-40" />
-              <div>
+              <div className="flex justify-center">
                 <TeamFlag name={fixture.away_team} size="sm" showLink={false} />
               </div>
             </div>
@@ -457,7 +464,7 @@ export default function MatchCentrePage() {
                   className="grid grid-cols-[1fr_auto_1fr] items-center gap-4 py-2.5 border-b border-border/40 last:border-0"
                 >
                   <span
-                    className={`text-sm font-semibold text-right ${
+                    className={`text-sm font-semibold text-center ${
                       homeBetter ? "text-accent" : "text-text"
                     }`}
                   >
@@ -467,7 +474,7 @@ export default function MatchCentrePage() {
                     {row.label}
                   </span>
                   <span
-                    className={`text-sm font-semibold ${
+                    className={`text-sm font-semibold text-center ${
                       awayBetter ? "text-accent" : "text-text"
                     }`}
                   >
