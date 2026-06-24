@@ -43,9 +43,9 @@ fixture_id,group,stage,match_date,kickoff_utc,home_team,away_team,home_score,awa
 42,Group J,Group stage,2026-06-22,,Argentina,Austria,2.0,0.0,AT&T Stadium,"Arlington, Texas",completed
 43,Group J,Group stage,2026-06-22,,Jordan,Algeria,1.0,2.0,Levi's Stadium,"Santa Clara, California",completed
 44,Group K,Group stage,2026-06-23,,Portugal,Uzbekistan,5.0,0.0,NRG Stadium,Houston,completed
-45,Group K,Group stage,2026-06-23,,Colombia,DR Congo,,,Estadio Akron,Zapopan,scheduled
-46,Group L,Group stage,2026-06-23,,England,Ghana,,,Gillette Stadium,"Foxborough, Massachusetts",scheduled
-47,Group L,Group stage,2026-06-23,,Panama,Croatia,,,BMO Field,Toronto,scheduled
+45,Group K,Group stage,2026-06-23,,Colombia,DR Congo,1.0,0.0,Estadio Akron,Zapopan,completed
+46,Group L,Group stage,2026-06-23,,England,Ghana,0.0,0.0,Gillette Stadium,"Foxborough, Massachusetts",completed
+47,Group L,Group stage,2026-06-23,,Panama,Croatia,0.0,1.0,BMO Field,Toronto,completed
 48,Group A,Group stage,2026-06-24,,Czech Republic,Mexico,,,Estadio Azteca,Mexico City,scheduled
 49,Group A,Group stage,2026-06-24,,South Africa,South Korea,,,Estadio BBVA,"Guadalupe, Nuevo León",scheduled
 50,Group B,Group stage,2026-06-24,,Switzerland,Canada,,,BC Place,Vancouver,scheduled
