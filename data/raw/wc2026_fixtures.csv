@@ -50,8 +50,8 @@ fixture_id,group,stage,match_date,kickoff_utc,home_team,away_team,home_score,awa
 49,Group A,Group stage,2026-06-24,,South Africa,South Korea,,,Estadio BBVA,"Guadalupe, Nuevo León",scheduled
 50,Group B,Group stage,2026-06-24,,Switzerland,Canada,2.0,1.0,BC Place,Vancouver,completed
 51,Group B,Group stage,2026-06-24,,Bosnia and Herzegovina,Qatar,,,Lumen Field,Seattle,scheduled
-52,Group C,Group stage,2026-06-24,,Scotland,Brazil,,,Hard Rock Stadium,"Miami Gardens, Florida",scheduled
-53,Group C,Group stage,2026-06-24,,Morocco,Haiti,,,Mercedes-Benz Stadium,Atlanta,scheduled
+52,Group C,Group stage,2026-06-24,,Scotland,Brazil,0.0,1.0,Hard Rock Stadium,"Miami Gardens, Florida",live
+53,Group C,Group stage,2026-06-24,,Morocco,Haiti,0.0,1.0,Mercedes-Benz Stadium,Atlanta,live
 54,Group D,Group stage,2026-06-25,,Turkey,United States,,,SoFi Stadium,"Inglewood, California",scheduled
 55,Group D,Group stage,2026-06-25,,Paraguay,Australia,,,Levi's Stadium,"Santa Clara, California",scheduled
 56,Group E,Group stage,2026-06-25,,Curaçao,Ivory Coast,,,Lincoln Financial Field,Philadelphia,scheduled
