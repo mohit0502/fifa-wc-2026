@@ -48,7 +48,7 @@ fixture_id,group,stage,match_date,kickoff_utc,home_team,away_team,home_score,awa
 47,Group L,Group stage,2026-06-23,,Panama,Croatia,0.0,1.0,BMO Field,Toronto,completed
 48,Group A,Group stage,2026-06-24,,Czech Republic,Mexico,,,Estadio Azteca,Mexico City,scheduled
 49,Group A,Group stage,2026-06-24,,South Africa,South Korea,,,Estadio BBVA,"Guadalupe, Nuevo León",scheduled
-50,Group B,Group stage,2026-06-24,,Switzerland,Canada,0.0,0.0,BC Place,Vancouver,live
+50,Group B,Group stage,2026-06-24,,Switzerland,Canada,2.0,1.0,BC Place,Vancouver,completed
 51,Group B,Group stage,2026-06-24,,Bosnia and Herzegovina,Qatar,,,Lumen Field,Seattle,scheduled
 52,Group C,Group stage,2026-06-24,,Scotland,Brazil,,,Hard Rock Stadium,"Miami Gardens, Florida",scheduled
 53,Group C,Group stage,2026-06-24,,Morocco,Haiti,,,Mercedes-Benz Stadium,Atlanta,scheduled
