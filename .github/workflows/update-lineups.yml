@@ -22,7 +22,7 @@ jobs:
           python-version: "3.13"
 
       - name: Install dependencies
-        run: pip install pandas numpy requests beautifulsoup4
+        run: pip install pandas numpy pyarrow requests beautifulsoup4
 
       - name: Scrape lineups
         run: python -m ingestion.scrape_lineups
