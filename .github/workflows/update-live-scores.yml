@@ -1,12 +1,11 @@
 name: Update live scores
 
 on:
-  schedule:
-    # Every 5 minutes. Each run makes 2 requests (today + yesterday) to
-    # SportAPI7's free "BASIC" plan, so check the plan's request quota on
-    # RapidAPI before leaving this running continuously for the whole
-    # tournament — tighten/loosen the interval to fit it.
-    - cron: "*/5 * * * *"
+  # Schedule disabled — SportAPI7 free-tier quota got exhausted running
+  # every 5 minutes. Trigger manually via workflow_dispatch until the
+  # quota resets and a sustainable interval is picked.
+  # schedule:
+  #   - cron: "*/5 * * * *"
   workflow_dispatch: {}
 
 jobs:
