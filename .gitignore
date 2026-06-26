@@ -5,7 +5,13 @@ __pycache__/
 .DS_Store
 data/raw/*
 !data/raw/wc2026_fixtures.csv
+!data/raw/wc2026_squads.csv
 *.parquet
+!data/processed/team_form.parquet
+!data/processed/ranking_history.parquet
+!data/processed/team_h2h.parquet
+!data/processed/team_features.parquet
+!data/processed/fjelstul_goals.parquet
 *.db
 .ipynb_checkpoints/
 .venv/
